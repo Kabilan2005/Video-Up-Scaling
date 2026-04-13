@@ -1,0 +1,15 @@
+streamlit
+streamlit-option-menu
+
+opencv-python
+numpy
+scipy
+Pillow
+
+torch
+torchvision
+ultralytics
+huggingface-hub
+
+moviepy
+python-dotenv
